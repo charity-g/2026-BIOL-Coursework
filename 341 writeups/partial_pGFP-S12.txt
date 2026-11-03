@@ -1,0 +1,11 @@
+ctgataccgc tcgccgcagc cgaacgaccg agcgcagcga gtcagtgagc gaggaagcgg
+1 AGATCT cacacaggaa acagctatga ccatgattac gccaagcttg
+47 catgcctgca ggtcgactct agaggatccc cgggtaccgg tagaaaaaat gagtaaagga
+
+
+_____________________________
+full se1q
+------------------------------
+ctgataccgctcgccgcagccgaacgaccgagcgcagcgagtcagtgagcgaggaagcggA GATCTcacacaggaaacagctatgaccatgattacgccaagcttgcatgcctgcaggtcgactctagaggatccccgggtaccggtagaaaaaatgagtaaagga
+
+
